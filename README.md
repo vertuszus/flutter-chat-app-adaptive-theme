@@ -2,8 +2,6 @@
 
 - google_fonts: [link](https://pub.dev/packages/google_fonts)
 
-![App UI](/ui.png)
-
 ![image](https://user-images.githubusercontent.com/72495167/181041426-f93e02d9-0a6e-479f-b9c5-9bc6dfc0214c.png)
 
 ![image](https://user-images.githubusercontent.com/72495167/181041534-528a40e6-1d1c-4f4c-ad19-23839754346e.png)
